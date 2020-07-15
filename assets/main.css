@@ -1,0 +1,94 @@
+html,
+body {
+    margin: 0;
+}
+
+.body {
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://orig14.deviantart.net/7584/f/2015/181/2/7/flat_mountains_landscape_by_ggiuliafilippini-d8zdbco.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: absolute;
+}
+
+.title {
+    color: rgb(17, 16, 15);
+    font-size: 2em;
+    margin-top: -1.2em;
+}
+
+.input {
+    margin-top: 10em;
+}
+
+.inputText {
+    width: 15em;
+    height: 2em;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    display: block;
+    margin-left: 10em;
+    margin-top: 1em;
+    text-align: center;
+    background-image: url(https://img.icons8.com/carbon-copy/2x/user.png);
+    background-size: 2.1em;
+    background-repeat: no-repeat;
+}
+
+.inputPaWo {
+    width: 15em;
+    height: 2em;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    display: block;
+    margin-left: 10em;
+    margin-top: 1em;
+    text-align: center;
+    background-image: url(https://img.icons8.com/all/500/forgot-password.png);
+    background-size: 2em;
+    background-repeat: no-repeat;
+}
+
+.loginBox {
+    width: 29em;
+    height: 28em;
+    text-align: center;
+    background-image: url(https://miro.medium.com/max/11704/0*Va7veOPNKpl2PeXA);
+    margin: 0 auto;
+    border: double rgb(83, 3, 3) 10px;
+    border-radius: 50px;
+    margin-top: 10em;
+}
+
+.inputLogin {
+    text-align: center;
+    margin-top: 1em;
+    border: 0px;
+    width: 100%;
+}
+
+.checkPas {
+    margin-top: 1em;
+    margin-left: -1em;
+    position: relative;
+}
+
+.forgot {
+    margin-top: 5em;
+    margin-left: -13em;
+    text-decoration: none;
+    position: absolute;
+}
+
+.create {
+    margin-top: 5em;
+    margin-left: 6em;
+    text-decoration: none;
+    position: absolute;
+}
+
+.fas {
+    font-size: 10px;
+}
